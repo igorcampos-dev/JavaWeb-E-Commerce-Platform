@@ -35,16 +35,6 @@ Este projeto é um sistema de comércio eletrônico que combina Servlets (Java) 
     - Configure o Apache Tomcat com base neste [vídeo tutorial](https://www.youtube.com/watch?v=2C8RGyC-dlY).
     -  pasta do Apache Tomcat (versão 9.0.9) está na pasta "lib" do projeto(usada no video mas em um diretorio diferente neste projeto).
 
-2. **Frontend**:
-    - Após configurar e rodar o backend, acesse o terminal na pasta do backend.
-    - Execute os seguintes comandos:
-      ```shell
-      cd ..
-      cd frontend
-      npm install
-      npm start 
-      ```
-
 ## Funcionamento do Projeto
 
 -**Rota base**: localhost:3000/market/login
