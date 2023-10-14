@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àèžö
+Y
+java:S1155w">Use isEmpty() to check whether the collection is empty or not.(ßû•Õÿÿÿÿÿ
+2
+java:S3626Õ"Remove this redundant jump.(ûÁÝ…
+2
+java:S3626Ü"Remove this redundant jump.(ûÁÝ…
+á
+java:S6541•"ÄA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 66 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 8 to 6.(€ÿ£Ðÿÿÿÿÿ

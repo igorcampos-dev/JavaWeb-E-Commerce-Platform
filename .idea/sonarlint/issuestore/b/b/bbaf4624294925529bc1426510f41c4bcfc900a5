@@ -1,0 +1,25 @@
+
+]Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <HTML> tag.(¨äÑ>
+T	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(¨äÑ>
+E	Web:S1827"+Remove this deprecated "BGCOLOR" attribute.(ïş–¾ÿÿÿÿÿ
+RWeb:UnsupportedTagsInHtml5Check#"(Remove this deprecated "CENTER" element.(È¤*
+MWeb:TableWithoutCaptionCheck$" Add a description to this table.(•×Æşùÿÿÿÿ
+?	Web:S5256$"%Add "<th>" headers to this "<table>".(•×Æşùÿÿÿÿ
+C	Web:S1827$")Remove this deprecated "WIDTH" attribute.(•×Æşùÿÿÿÿ
+E	Web:S1827$"+Remove this deprecated "BGCOLOR" attribute.(•×Æşùÿÿÿÿ
+I	Web:S1827$"/Remove this deprecated "CELLPADDING" attribute.(•×Æşùÿÿÿÿ
+C	Web:S1827&")Remove this deprecated "ALIGN" attribute.(íšô±ùÿÿÿÿ
+>	Web:S1827'")Remove this deprecated "ALIGN" attribute.(ìÿÅ¤
+>	Web:S1827(")Remove this deprecated "ALIGN" attribute.(ü¢æ
+HWeb:TableWithoutCaptionCheck-" Add a description to this table.(Ôˆ¬ı
+>	Web:S1827-")Remove this deprecated "WIDTH" attribute.(Ôˆ¬ı
+@	Web:S1827-"+Remove this deprecated "BGCOLOR" attribute.(Ôˆ¬ı
+D	Web:S1827-"/Remove this deprecated "CELLPADDING" attribute.(Ôˆ¬ı
+E	Web:S1827<"+Remove this deprecated "BGCOLOR" attribute.(â‰š½ûÿÿÿÿ
+MWeb:TableWithoutCaptionCheckH" Add a description to this table.(•×Æşùÿÿÿÿ
+?	Web:S5256H"%Add "<th>" headers to this "<table>".(•×Æşùÿÿÿÿ
+C	Web:S1827H")Remove this deprecated "WIDTH" attribute.(•×Æşùÿÿÿÿ
+E	Web:S1827H"+Remove this deprecated "BGCOLOR" attribute.(•×Æşùÿÿÿÿ
+I	Web:S1827H"/Remove this deprecated "CELLPADDING" attribute.(•×Æşùÿÿÿÿ
+>	Web:S1827J")Remove this deprecated "ALIGN" attribute.(š¥¦¢
+QWeb:UnsupportedTagsInHtml5CheckS"&Remove this deprecated "font" element.(ëÂ·¦

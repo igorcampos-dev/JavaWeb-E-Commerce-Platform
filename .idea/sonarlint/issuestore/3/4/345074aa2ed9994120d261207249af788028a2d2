@@ -1,0 +1,5 @@
+
+]Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <HTML> tag.(¨äÑ>
+T	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(¨äÑ>
+E	Web:S1827"+Remove this deprecated "BGCOLOR" attribute.(ïþ–¾ÿÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "FONT" element.(áÒíðùÿÿÿÿ

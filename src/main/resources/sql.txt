@@ -1,0 +1,32 @@
+
+CREATE TABLE Usuario (
+    id VARCHAR(36) PRIMARY KEY,
+    name VARCHAR(255),
+    email VARCHAR(255),
+    password VARCHAR(255)
+);
+
+
+CREATE TABLE Produto (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(255),
+    image VARCHAR(255),
+    price DOUBLE,
+    category VARCHAR(255)
+);
+
+CREATE TABLE Carrinho (
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    usuario_id varchar(36),
+    foreign key (usuario_id) references Usuario(id)
+);
+
+CREATE TABLE ProdutoNoCarrinho (
+    id BIGINT PRIMARY KEY AUTO_INCREMENT,
+    carrinho_id BIGINT,
+    produto_id INT,
+    usuario_id varchar(36),
+    FOREIGN KEY (carrinho_id) REFERENCES Carrinho(id),
+    FOREIGN KEY (produto_id) REFERENCES Produto(id),
+    FOREIGN KEY (usuario_id) REFERENCES Usuario(id)
+);

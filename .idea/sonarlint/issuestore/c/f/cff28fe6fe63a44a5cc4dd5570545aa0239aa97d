@@ -1,0 +1,18 @@
+
+]Web:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <HTML> tag.(¨äÑ>
+T	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(¨äÑ>
+E	Web:S1827"+Remove this deprecated "BGCOLOR" attribute.(ïş–¾ÿÿÿÿÿ
+HWeb:TableWithoutCaptionCheck$" Add a description to this table.(£¾¨
+:	Web:S5256$"%Add "<th>" headers to this "<table>".(£¾¨
+>	Web:S1827$")Remove this deprecated "WIDTH" attribute.(£¾¨
+D	Web:S1827$"/Remove this deprecated "CELLPADDING" attribute.(£¾¨
+D	Web:S1827$"/Remove this deprecated "CELLSPACING" attribute.(£¾¨
+E	Web:S1827%"+Remove this deprecated "BGCOLOR" attribute.(Ëï“Üüÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check&"&Remove this deprecated "FONT" element.(ëŠŒûÿÿÿÿ
+?	Web:S1827)"+Remove this deprecated "BGCOLOR" attribute.(›Ğ†2
+>	Web:S1827*")Remove this deprecated "align" attribute.(“…Æ³
+?	Web:S1827*"*Remove this deprecated "valign" attribute.(“…Æ³
+>	Web:S1827*")Remove this deprecated "width" attribute.(“…Æ³
+OWeb:UnsupportedTagsInHtml5Check+"&Remove this deprecated "FONT" element.(áİ>
+C	Web:S18271")Remove this deprecated "width" attribute.(ìèŒæúÿÿÿÿ
+OWeb:UnsupportedTagsInHtml5Check2"&Remove this deprecated "FONT" element.(áİ>

@@ -1,0 +1,28 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(¥ŒˆÌûÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(øÙûÔøÿÿÿÿ
+LWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(øÙûÔøÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(øÙûÔøÿÿÿÿ
+LWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(øÙûÔøÿÿÿÿ
+C	Web:S1827")Remove this deprecated "align" attribute.(øÙûÔøÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(¤¤’úÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(õËò¦üÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Œ½Ÿå
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Ê«î¨úÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(îğÉ„
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(‚¸ñ¸
+QWeb:UnsupportedTagsInHtml5Check!"&Remove this deprecated "font" element.(ì’¥ò
+QWeb:UnsupportedTagsInHtml5Check!"&Remove this deprecated "font" element.(ì’¥ò
+QWeb:UnsupportedTagsInHtml5Check#"&Remove this deprecated "font" element.(ê–¤ƒ
+VWeb:UnsupportedTagsInHtml5Check$"&Remove this deprecated "font" element.(ÿ ¶ùÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check&"&Remove this deprecated "font" element.(ÂÑŠ
+VWeb:UnsupportedTagsInHtml5Check+"&Remove this deprecated "font" element.(ÓØ€üÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check/"&Remove this deprecated "font" element.(ôÀ‘ê
+QWeb:UnsupportedTagsInHtml5Check0"&Remove this deprecated "font" element.(Çµû
+VWeb:UnsupportedTagsInHtml5Check1"&Remove this deprecated "font" element.(ıÕÎ´øÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check3"&Remove this deprecated "font" element.(­•ìÕüÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check5"&Remove this deprecated "font" element.(ËˆáÙ
+QWeb:UnsupportedTagsInHtml5Check7"&Remove this deprecated "font" element.(¹‡ë
+QWeb:UnsupportedTagsInHtml5CheckA"&Remove this deprecated "font" element.(ëØß

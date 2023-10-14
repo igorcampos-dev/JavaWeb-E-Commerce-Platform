@@ -1,0 +1,49 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(¥ŒˆÌûÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ìÒü
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ìÒü
+>	Web:S1827")Remove this deprecated "align" attribute.(ìÒü
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ìÒü
+>	Web:S1827")Remove this deprecated "align" attribute.(ìÒü
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ÿÅäÎùÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(õËò¦üÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Œ½Ÿå
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Ê«î¨úÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(îğÉ„
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(‚¸ñ¸
+VWeb:UnsupportedTagsInHtml5Check!"&Remove this deprecated "font" element.(¯‹¾ôùÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check!"&Remove this deprecated "font" element.(¯‹¾ôùÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check#"&Remove this deprecated "font" element.(ê–¤ƒ
+VWeb:UnsupportedTagsInHtml5Check$"&Remove this deprecated "font" element.(ÿ ¶ùÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check&"&Remove this deprecated "font" element.(ÂÑŠ
+QWeb:UnsupportedTagsInHtml5Check("&Remove this deprecated "font" element.(¸×ñ™
+QWeb:UnsupportedTagsInHtml5Check)"&Remove this deprecated "font" element.(¯½ò®
+VWeb:UnsupportedTagsInHtml5Check*"&Remove this deprecated "font" element.(ß¼îõùÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check+"&Remove this deprecated "font" element.(×úÕ
+QWeb:UnsupportedTagsInHtml5Check,"&Remove this deprecated "font" element.(‰ÈËÉ
+VWeb:UnsupportedTagsInHtml5Check-"&Remove this deprecated "font" element.(çÀÃøÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check."&Remove this deprecated "font" element.(ùĞ™ğ
+QWeb:UnsupportedTagsInHtml5Check4"&Remove this deprecated "font" element.(¾·€–
+QWeb:UnsupportedTagsInHtml5Check5"&Remove this deprecated "font" element.(Ê®„ù
+QWeb:UnsupportedTagsInHtml5Check5"&Remove this deprecated "font" element.(Ê®„ù
+QWeb:UnsupportedTagsInHtml5Check6"&Remove this deprecated "font" element.(¿Å
+VWeb:UnsupportedTagsInHtml5Check7"&Remove this deprecated "font" element.(çí™¤úÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check9"&Remove this deprecated "font" element.(¬••
+QWeb:UnsupportedTagsInHtml5Check;"&Remove this deprecated "font" element.(¯ªÜĞ
+QWeb:UnsupportedTagsInHtml5Check<"&Remove this deprecated "font" element.(ÑÁçÀ
+QWeb:UnsupportedTagsInHtml5Check="&Remove this deprecated "font" element.(Û„È„
+VWeb:UnsupportedTagsInHtml5Check>"&Remove this deprecated "font" element.(Ä°¼éşÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check?"&Remove this deprecated "font" element.(¾·€–
+VWeb:UnsupportedTagsInHtml5Check@"&Remove this deprecated "font" element.(¦Á«¦üÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckA"&Remove this deprecated "font" element.(œŠË¦ÿÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5CheckB"&Remove this deprecated "font" element.(¿Å
+QWeb:UnsupportedTagsInHtml5CheckC"&Remove this deprecated "font" element.(ıŸ‘í
+VWeb:UnsupportedTagsInHtml5CheckD"&Remove this deprecated "font" element.(œŠË¦ÿÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckE"&Remove this deprecated "font" element.(ö®Ö»şÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckF"&Remove this deprecated "font" element.(—®É‡üÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5CheckG"&Remove this deprecated "font" element.(–‚Ä¯
+QWeb:UnsupportedTagsInHtml5CheckH"&Remove this deprecated "font" element.(Æ½òÌ
+VWeb:UnsupportedTagsInHtml5CheckK"&Remove this deprecated "font" element.(ÁÔ°úÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5CheckL"&Remove this deprecated "font" element.(ÿ ¶ùÿÿÿÿ

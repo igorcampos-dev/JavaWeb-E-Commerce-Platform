@@ -1,0 +1,14 @@
+
+a
+java:S1192$"FDefine a constant instead of duplicating this literal "black" 4 times.(ÈÏ³ˆşÿÿÿÿ
+J
+java:S1066$"/Merge this if statement with the enclosing one.(ÈÏ³ˆşÿÿÿÿ
+E
+java:S1066+"/Merge this if statement with the enclosing one.(ÄÙµÖ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(‰İ€ç
+\
+java:S4275C"FRefactor this getter so that it actually refers to the field "color2".(óÛ¦„
+a
+java:S4275G"FRefactor this getter so that it actually refers to the field "color1".(š‡ˆ—ûÿÿÿÿ
+W
+java:S1126W"AReplace this if-then-else statement by a single return statement.(ÓÛÿø

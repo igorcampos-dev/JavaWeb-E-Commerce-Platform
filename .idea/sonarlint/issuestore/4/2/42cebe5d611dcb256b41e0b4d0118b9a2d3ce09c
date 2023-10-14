@@ -1,0 +1,26 @@
+
+|
+java:S11929"aDefine a constant instead of duplicating this literal "**********  32 bytes  **********" 4 times.(×ç±Ðÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àèžö
+q
+java:S1989("VHandle the following exception that could be thrown by "getOutputStream": IOException.(¦¿ì²ûÿÿÿÿ
+d
+java:S1989."NHandle the following exception that could be thrown by "println": IOException.(«íý«
+i
+java:S19890"NHandle the following exception that could be thrown by "println": IOException.(¤—½ßûÿÿÿÿ
+i
+java:S19892"NHandle the following exception that could be thrown by "println": IOException.(æŸ‘²üÿÿÿÿ
+i
+java:S19897"NHandle the following exception that could be thrown by "println": IOException.(ú¹¿Ùýÿÿÿÿ
+d
+java:S19898"NHandle the following exception that could be thrown by "println": IOException.(¨¢÷æ
+i
+java:S19899"NHandle the following exception that could be thrown by "println": IOException.(×ç±Ðÿÿÿÿÿ
+i
+java:S1989:"NHandle the following exception that could be thrown by "println": IOException.(×ç±Ðÿÿÿÿÿ
+i
+java:S1989;"NHandle the following exception that could be thrown by "println": IOException.(×ç±Ðÿÿÿÿÿ
+i
+java:S1989<"NHandle the following exception that could be thrown by "println": IOException.(×ç±Ðÿÿÿÿÿ
+b
+java:S1989="LHandle the following exception that could be thrown by "close": IOException.(„¸Ç§

@@ -1,0 +1,12 @@
+
+cWeb:DoctypePresenceCheck":Insert a <!DOCTYPE> declaration to before this <html> tag.(œ÷Ãûÿÿÿÿ
+Z	Web:S5254"@Add "lang" and/or "xml:lang" attributes to this "<html>" element(œ÷Ãûÿÿÿÿ
+E	Web:S1827"+Remove this deprecated "bgcolor" attribute.(¥ŒˆÌûÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ı¬·Š
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(ı¬·Š
+>	Web:S1827")Remove this deprecated "align" attribute.(ı¬·Š
+GWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(î¨Å³
+>	Web:S1827")Remove this deprecated "align" attribute.(î¨Å³
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(Ë¶Äßıÿÿÿÿ
+VWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(ÁšÖ„ùÿÿÿÿ
+QWeb:UnsupportedTagsInHtml5Check"&Remove this deprecated "font" element.(éÊ¶Ú
